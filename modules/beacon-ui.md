@@ -5,9 +5,9 @@ owner: Liam Chen
 current_version: "0.8.2"
 target_version: "0.9.0"
 release_train: "2026.11"
-status: pending_release
+status: blocked_qa
 release_date: ""
-hold_reason: ""
+hold_reason: "qa_failure"
 ---
 # Beacon UI
 
