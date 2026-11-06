@@ -5,9 +5,9 @@ owner: Diego Ramirez
 current_version: "1.1.0"
 target_version: "1.2.0"
 release_train: "2026.11"
-status: pending_release
+status: blocked_dependency
 release_date: ""
-hold_reason: ""
+hold_reason: "dependency"
 ---
 # Atlas Sync
 
