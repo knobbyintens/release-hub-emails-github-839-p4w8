@@ -2,11 +2,11 @@
 module: Beacon API
 code_name: beacon-api
 owner: Grace Liu
-current_version: "1.7.4"
+current_version: "1.8.0"
 target_version: "1.8.0"
 release_train: "2026.11"
-status: pending_release
-release_date: ""
+status: released
+release_date: "2026-11-06"
 hold_reason: ""
 ---
 # Beacon API
