@@ -5,9 +5,9 @@ owner: Noah Park
 current_version: "0.4.1"
 target_version: "0.5.0"
 release_train: "2026.11"
-status: pending_release
+status: deferred
 release_date: ""
-hold_reason: ""
+hold_reason: "not_approved"
 ---
 # Cedar Metrics
 
