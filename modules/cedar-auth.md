@@ -2,11 +2,11 @@
 module: Cedar Auth
 code_name: cedar-auth
 owner: Ava Thompson
-current_version: "3.0.5"
+current_version: "3.1.0"
 target_version: "3.1.0"
 release_train: "2026.11"
-status: pending_release
-release_date: ""
+status: released
+release_date: "2026-11-06"
 hold_reason: ""
 ---
 # Cedar Auth
