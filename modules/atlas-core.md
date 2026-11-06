@@ -2,11 +2,11 @@
 module: Atlas Core
 code_name: atlas-core
 owner: Priya Raman
-current_version: "2.3.0"
+current_version: "2.4.0"
 target_version: "2.4.0"
 release_train: "2026.11"
-status: pending_release
-release_date: ""
+status: released
+release_date: "2026-11-06"
 hold_reason: ""
 ---
 # Atlas Core
